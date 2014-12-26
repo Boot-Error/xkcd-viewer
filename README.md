@@ -1,7 +1,7 @@
 xkcd-viewer
 ===========
 
-A small script to get random xkcd comic using python (2.7) and the following external dependencies requests, BeautifulSoup4, PIL.
+A small script to get a random xkcd comic using Python (2.7) along with the following external dependencies - requests, BeautifulSoup4, and PIL.
 
 ```sh
 $ pip install -r requirements.txt
